@@ -1,7 +1,9 @@
 vim-colemak-DHm
 ===========
 
-Colemak key mappings for Vim. Forked from [jooize/vim-colemak])https://github.com/jooize/vim-colemak)
+# This is a **work in progress** fork, check back later. When this text is removed, it is ready for use.
+
+Colemak key mappings for Vim. Forked from [jooize/vim-colemak](https://github.com/jooize/vim-colemak)
 
 Install
 -------

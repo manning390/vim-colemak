@@ -1,6 +1,9 @@
 [vim colemak DHm](vim-colemak-DHm)
 ===========
 
+=======
+# This is a **work in progress** fork, check back later. When this text is removed, it is ready for use.
+
 Install
 -------
 

@@ -10,16 +10,18 @@ Define this in the vimrc runtime stream prior to plugin loading (plugins run aft
 " Need to define prior to plugin load or include in plugin
 " Defined here first so can get mappings for downstream vimrc
 let g:colemak_dhm_mappings = {
-\        'left': {'dhm': 'm', 'original': 'h'},
-\        'right': {'dhm': 'i', 'original': 'l'},
-\        'down': {'dhm': 'n', 'original': 'j'},
-\        'up': {'dhm': 'e', 'original': 'k'},
+\        'left':   {'dhm': 'm', 'original': 'h'},
+\        'right':  {'dhm': 'i', 'original': 'l'},
+\        'down':   {'dhm': 'n', 'original': 'j'},
+\        'up':     {'dhm': 'e', 'original': 'k'},
 \        'insert': {'dhm': 'l', 'original': 'i'},
-\        'next': {'dhm': 'h', 'original': 'n'},
+\        'next':   {'dhm': 'h', 'original': 'n'},
 \        'previous': {'dhm': 'H', 'original': 'N'},
-\        'mark': {'dhm': 'k', 'original': 'm'},
+\        'mark':   {'dhm': 'k', 'original': 'm'},
 \        'top_screen': {'dhm': 'K', 'original': 'H'},
-\        'join': {'dhm': 'N', 'original': 'J'},
+\        'join':    {'dhm': 'N', 'original': 'J'},
+\        'eow':    {'dhm': 'j', 'original': 'e'},
+\        'eoW':    {'dhm': 'J', 'original': 'E'},
 \        'shift_i': {'dhm': 'I', 'original': '<nop>'}
 \}
 
